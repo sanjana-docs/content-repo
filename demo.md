@@ -1,6 +1,6 @@
 This is the first line.
 
-Second line.
+Second line!
 
 Third line.
 
